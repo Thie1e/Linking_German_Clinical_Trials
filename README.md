@@ -32,7 +32,7 @@ The script `fuzzy_functions.R` contains some functions for calculating similarit
 
 ### Result
 
-The resulting table in our study using data from November of 2019 had 36617 rows and 69 variables and is in `all_trials_de.RData` as a `tibble`. When re-running the scripts with your own data the result will differ, of course.
+The resulting table in our study using data from November of 2019 had 36625 rows and 53 variables and is in `all_trials_de.RData` as a `tibble`. When re-running the scripts with your own data the result will differ, of course.
 
 ```
 library(tidyverse)
